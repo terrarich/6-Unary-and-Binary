@@ -2,7 +2,7 @@
 
 using namespace std;
 
-//¡»Õ¿–Õ€≈
+//–ë–ò–ù–ê–†–ù–´–ï | Binary
 
 void main()
 {
